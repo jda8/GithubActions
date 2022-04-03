@@ -1,5 +1,4 @@
-[![Run App](https://github.com/kgerot/GithubActions/actions/workflows/run-app.yaml/badge.svg)](https://github.com/kgerot/GithubActions/actions/workflows/run-app.yaml)
-
+[![Run App JoeDavis](https://github.com/jda8/GithubActions/actions/workflows/run-app.yaml/badge.svg)](https://github.com/jda8/GithubActions/actions/workflows/run-app.yaml)
 # Github Actions Lab
 
 Because Travis CI is no longer free, we are going to look at how Github Actions can provide continuous integration on a sample project.
